@@ -1,7 +1,7 @@
 このリポジトリは https://github.com/dionyziz/canvas-tetris がオリジナルです。
 
-オリジナルのソースコードのLicense
-=======
+# オリジナルのソースコードの License
+
 This version of tetris is MIT licensed:
 
 Copyright (C) 2012 Dionysis "dionyziz" Zindros <dionyziz@gmail.com>
